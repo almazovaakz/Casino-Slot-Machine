@@ -1,0 +1,3 @@
+/Users/zzakz/Documents/untitled1/CMakeFiles/casino.out.dir
+/Users/zzakz/Documents/untitled1/CMakeFiles/edit_cache.dir
+/Users/zzakz/Documents/untitled1/CMakeFiles/rebuild_cache.dir
